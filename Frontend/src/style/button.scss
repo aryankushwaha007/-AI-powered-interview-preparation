@@ -1,19 +1,25 @@
-.button{
+.button {
+
     border: none;
     outline: none;
     padding-inline: 1.5rem;
     padding-block: 0.75rem;
     border-radius: 1rem;
     cursor: pointer;
+
     transition: all 0.3s ease-in-out;
 
-
-    &.primary-button{
-        background-color: #a90319c8;
-        color: #afa0a0;
+    &.primary-button {
+        background: linear-gradient(135deg, #18a08c 0%, #0e7c97 100%);
+        color: white;
+        box-shadow: 0 10px 24px rgba(14, 124, 151, 0.28);
     }
 
-    &:active{
-        transform: scale(0.98);
+    &:hover {
+        filter: brightness(1.06);
+    }
+
+    &:active {
+        transform: scale(0.9);
     }
 }
