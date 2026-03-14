@@ -142,7 +142,7 @@ Screenshots are listed in ascending filename order from the docs/screenshots fol
 9. Additional view 9
 ![09 - Additional view 9](docs/screenshots/9.png)
 
-Tip: screenshots are stored locally in `docs/screenshots/` and can be replaced with updated captures while keeping the same numbering.
+
 
 ## Documentation
 
