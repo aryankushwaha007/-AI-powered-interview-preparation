@@ -42,20 +42,32 @@ flowchart LR
 		F --> H[Interactive Report UI]
 ```
 
-## UI Preview Ideas
+## Screenshots (Ascending User Flow)
 
-If you are presenting this project, use screenshots in this order to make the story clear:
+Use this order in your portfolio/demo so reviewers see a complete user journey:
 
-| Screen | What to Show | Why it Looks Strong in Demos |
-|---|---|---|
-| Input Workspace | Resume upload + self description + JD fields | Shows practical usability immediately |
-| Generated Report | Technical/behavioral tabs + expandable cards | Demonstrates depth and structured AI output |
-| Skills + Roadmap | Severity tags + day-wise timeline | Highlights actionable value, not just analysis |
+1. Plan creation screen (empty state)
+![01 - Plan creation screen](https://placehold.co/1200x650/0f1f2f/eaf6ff?text=01+-+Plan+Creation+Screen+%28Empty%29)
 
-You can add your actual screenshots under a docs folder later and replace these placeholders:
+2. Plan creation screen (job description entered)
+![02 - Plan creation with input](https://placehold.co/1200x650/12314a/eaf6ff?text=02+-+Plan+Creation+With+Input)
 
-![Home Placeholder](https://placehold.co/1200x650/0f1f2f/eaf6ff?text=Add+Home+Page+Screenshot)
-![Report Placeholder](https://placehold.co/1200x650/12314a/eaf6ff?text=Add+Interview+Report+Screenshot)
+3. Loading state after clicking generate
+![03 - Loading state](https://placehold.co/1200x650/08131f/eaf6ff?text=03+-+Loading+State)
+
+4. Technical questions overview (collapsed cards)
+![04 - Technical questions overview](https://placehold.co/1200x650/13273f/eaf6ff?text=04+-+Technical+Questions+Overview)
+
+5. Technical questions expanded (intent + model answer)
+![05 - Technical questions expanded](https://placehold.co/1200x650/17314a/eaf6ff?text=05+-+Technical+Questions+Expanded)
+
+6. Behavioral questions tab
+![06 - Behavioral questions](https://placehold.co/1200x650/18334d/eaf6ff?text=06+-+Behavioral+Questions+Tab)
+
+7. Loading screen for next generation cycle
+![07 - Loading next cycle](https://placehold.co/1200x650/08131f/eaf6ff?text=07+-+Loading+Next+Cycle)
+
+Tip: put your real images in `docs/screenshots/` and replace these URLs with local links for a professional repo presentation.
 
 ## Tech Stack
 
