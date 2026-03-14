@@ -44,28 +44,34 @@ flowchart LR
 
 ## Screenshots (Ascending User Flow)
 
-Use this order in your portfolio/demo so reviewers see a complete user journey:
+Screenshots are listed in ascending filename order from the docs/screenshots folder:
 
 1. Plan creation screen (empty state)
-![01 - Plan creation screen](../docs/screenshots/01-plan-empty.svg)
+![01 - Plan creation screen](../docs/screenshots/1.png)
 
 2. Plan creation screen (job description entered)
-![02 - Plan creation with input](../docs/screenshots/02-plan-with-input.svg)
+![02 - Plan creation with input](../docs/screenshots/2.png)
 
 3. Loading state after clicking generate
-![03 - Loading state](../docs/screenshots/03-loading-state.svg)
+![03 - Loading state](../docs/screenshots/3.png)
 
 4. Technical questions overview (collapsed cards)
-![04 - Technical questions overview](../docs/screenshots/04-technical-collapsed.svg)
+![04 - Technical questions overview](../docs/screenshots/4.png)
 
 5. Technical questions expanded (intent + model answer)
-![05 - Technical questions expanded](../docs/screenshots/05-technical-expanded.svg)
+![05 - Technical questions expanded](../docs/screenshots/5.png)
 
 6. Behavioral questions tab
-![06 - Behavioral questions](../docs/screenshots/06-behavioral-tab.svg)
+![06 - Behavioral questions](../docs/screenshots/6.png)
 
 7. Loading screen for next generation cycle
-![07 - Loading next cycle](../docs/screenshots/07-loading-next-cycle.svg)
+![07 - Loading next cycle](../docs/screenshots/7.png)
+
+8. Additional view 8
+![08 - Additional view 8](../docs/screenshots/8.png)
+
+9. Additional view 9
+![09 - Additional view 9](../docs/screenshots/9.png)
 
 Tip: real screenshots can replace these placeholders in `docs/screenshots/` while keeping the same filenames.
 
