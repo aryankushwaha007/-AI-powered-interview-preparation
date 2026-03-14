@@ -151,7 +151,6 @@ Screenshots are listed in ascending filename order from the docs/screenshots fol
 
 ## Security Note
 
-Do not commit sensitive files.
 
 Already ignored:
 
