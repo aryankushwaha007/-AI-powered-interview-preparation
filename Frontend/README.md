@@ -42,7 +42,7 @@ flowchart LR
 		F --> H[Interactive Report UI]
 ```
 
-## Screenshots (Ascending User Flow)
+## Screenshots ( User Flow)
 
 Screenshots are listed in ascending filename order from the docs/screenshots folder:
 
